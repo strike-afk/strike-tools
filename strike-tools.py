@@ -122,7 +122,7 @@ if strike=="0":
        os.system("sleep 2")
        quit()
 else:
-       os.system("python strike-Tools.py")
+       os.system("python strike-tools.py")
        print()
 
 
