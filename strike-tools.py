@@ -45,7 +45,7 @@ print("""
    `+sso+osssssssssssssssxpo+++/+oso:
   `++:+os+oooooooooooosssxo+sooss`-/+/
  .\033[94m☾★                                  ☾★
-        \033[94mInstagram:strike.aser
+        \033[94mInstagram:strikeofficials
  ☾★     \033[92mYoutube  :STRİKE\033[94m               ☾★
         \033[94MGithub   :strike-afk      
 ☾★                                      ☾★
